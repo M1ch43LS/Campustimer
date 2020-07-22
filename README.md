@@ -1,2 +1,2 @@
 # Campustimer
- Get informations from a webpage and display the in several ways.
+ Get informations from a webpage and display them in several ways.
